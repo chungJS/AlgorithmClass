@@ -35,7 +35,7 @@ I implemented Quick Sort in Python using iteration and recursion. Also Random Pi
 | 24756064.3 | 24987098.9 | 24985138.4 |     | 247560643 | 249870989  | 249851384 |
 | 24922159.9 | 25278697.8 | 24991848.7 |     | 249221599 | 252786978  | 249918487 |
 
-### 그래프
+### Graph
 
 - For an array size of 10^2 (100 elements):
 
